@@ -1,19 +1,10 @@
 Hello,
 
-I am one of the few developers for the A21s Device,
-here is a little but about what I am working on.
+Samsung Exynos 850 currently consists of 2 'real'
+developers, who develop for this SoC as a hobby.
 
-**# Completed Projects:**
-- LineageOS 20.0 ROM
-- LineageOS 19.1 ROM - Stable
-- Halium Kernel
-- Upstreamed kernel
-- Kawa Kernel maintainer
-
-**# My current projects are:**
-
-- Droidian port
-- PMOS port
+This SoC has stable device trees for lineage 19.1 up
+until 22.1.
 
 **My Telegram:**
 
