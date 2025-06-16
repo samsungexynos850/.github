@@ -1,6 +1,8 @@
 Stable device trees for LineageOS 22.2 Official
 Force pushes happen regularly
 
-**My Telegram:**
+**exynos 850 group chat:**
+https://t.me/ex850chat
 
-https://t.me/thomas_turner36
+**a21s group chat:**
+https://t.me/samsunggalaxya21s
